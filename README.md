@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/dist-windows,%20linux,%20macos-blue.svg?style=for-the-badge" alt="distribution">
 </p>
 
-<p align="center">Paladium Launcher - Beta</p>
+<p align="center">Vanadium Launcher - Beta</p>
 
 ## Nouveauté
 
