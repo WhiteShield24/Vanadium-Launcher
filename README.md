@@ -1,6 +1,6 @@
 <p align="center"><img src="https://paladium-pvp.fr/styles/ndzn/paladiumpvp/logo-sm.png" width="400px" height="225px" alt="paladium-pvp"></p>
 
-<h1 align="center">Paladium Launcher</h1>
+<h1 align="center">Vanadium Launcher</h1>
 
 <p align="center">
     <img src="https://img.shields.io/badge/build-dev-red.svg?style=for-the-badge" alt="build">
